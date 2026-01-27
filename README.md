@@ -1,71 +1,74 @@
 <h1 align="center">Hola, Soy Yeison Enciso 👋</h1>
-<h3 align="center">Frontend-Focused Full Stack Developer | React · Next.js · TypeScript · UI/UX</h3>
+<h3 align="center">**Desarrollador Full Stack** con Enfoque Frontend | React · Next.js · TypeScript · UI/UX</h3>
+<h5 align="center">📍 Villavicencio-Meta , Colombia </h5>  
+  
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yeendj&label=Profile%20views&color=0e75b6&style=flat" alt="yeendj" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yeendj&theme=onedark" alt="yeendj" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yeendj&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="yeendj" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre mí
 
-- 🔭 I’m currently working on  
-  **[SiChef – Social recipe platform focused on UX and modern frontend](https://si-chef.vercel.app/guest)**
+- 🔭 Actualmente estoy trabajando en  
+  **[SiChef – Plataforma social de recetas enfocada en UX y frontend moderno](https://si-chef.vercel.app/guest)**
 
-- 🌱 I’m currently learning  
-  **Next.js Advanced, TypeScript Patterns, UI/UX Design Systems & Clean Architecture**
+- 🌱 Actualmente estoy aprendiendo  
+  **Next.js Avanzado, Patrones en TypeScript, Sistemas de Diseño UI/UX y Arquitectura Limpia**
 
-- 👯 I’m looking to collaborate on  
-  **Open Source projects in React, Next.js and Frontend UX/UI**
+- 👯 Busco colaborar en  
+  **Proyectos Open Source con React, Next.js y Frontend UX/UI**
 
-- 🤝 I’m looking for help with  
-  **Performance optimization, accessibility and scalable frontend architecture**
+- 🤝 Busco ayuda con  
+  **Optimización de rendimiento, accesibilidad y arquitectura frontend escalable**
 
-- 👨‍💻 All of my projects are available at  
+- 👨‍💻 Todos mis proyectos están disponibles en  
   **https://github.com/YEENDJ**
 
-- 📝 I regularly write articles on  
-  *Coming soon – Frontend development and best practices blog*
+- 📝 Escribo artículos en  
+  *Próximamente – Blog sobre desarrollo frontend y buenas prácticas web*
 
-- 💬 Ask me about  
-  **React, Next.js, Frontend Development, UX/UI & JavaScript**
+- 💬 Pregúntame sobre  
+  **React, Next.js, Desarrollo Frontend, UX/UI y JavaScript**
 
-- 📫 How to reach me  
+- 📫 Cómo contactarme  
   **yeendj@gmail.com**
 
-- 📄 Know about my experiences  
+- 📄 Conoce mi experiencia  
   **https://www.linkedin.com/in/yeison-enciso-490464372/**
 
-- ⚡ Fun fact  
+- ⚡ Dato curioso  
   **Me emociono más por un buen UI que por una serie de Netflix 😄**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## Educación
+
+- **Soy Henry – Bootcamp Full Stack Web Developer (2026)**  
+800+ horas de programación intensiva en JavaScript, React, Node.js, PostgreSQL y metodologías ágiles (SCRUM).  
+
+---
+
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yeison-enciso-490464372/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/yeendj4692" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-  </a>
+  <a href="https://discord.com/users/yeendj4692" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
@@ -79,15 +82,21 @@
 
 ---
 
+Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades como Frontend Developer!
+
+---
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeendj&show_icons=true&locale=en&layout=compact" alt="yeendj" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeendj&show_icons=true&locale=es&layout=compact" alt="yeendj" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeendj&show_icons=true&locale=en" alt="yeendj" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeendj&show_icons=true&locale=es" alt="yeendj" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeendj" alt="yeendj" />
 </p>
+
+
 
