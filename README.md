@@ -70,9 +70,7 @@ Desarrollo aplicaciones **web y móviles de 0 a producción**. Trabajo con React
 
 ### 📊 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeendj&show_icons=true&locale=es&theme=default" alt="yeendj" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeendj&show_icons=true&locale=es&layout=compact&theme=default" alt="yeendj" height="165" />
+
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yeendj&locale=es" alt="yeendj" />
